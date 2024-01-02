@@ -17,4 +17,4 @@ Steps:
 
 
 
-Learn how to add libraries to your projects that others can use when they run your code. Does a virtual environment need to be activated from your main.py?
+
